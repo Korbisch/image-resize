@@ -5,7 +5,8 @@ from PIL import Image
 import os
 import sys
 
-directory = "/Users/korbinianschleifer/desktop/images"
+# set path to directory here
+directory = "Path"
 
 for file_name in os.listdir(directory):
     print("Processing %s" % file_name)
