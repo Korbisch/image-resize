@@ -1,3 +1,3 @@
 # image-resize
 
-Small script to resize images
+Small python script to resize images
